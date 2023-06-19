@@ -22,16 +22,16 @@
         <scoped_administration>false</scoped_administration>
         <short_description>testing_pipeline</short_description>
         <source>x_snc_task_based_0</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000001135</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>Dale</sys_created_by>
         <sys_created_on>2023-06-19 09:46:04</sys_created_on>
         <sys_id>fe1b00d1c3676950a6d0550f05013147</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>Dale</sys_updated_by>
-        <sys_updated_on>2023-06-19 09:54:49</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Pipeline_SA</sys_updated_by>
+        <sys_updated_on>2023-06-19 09:55:05</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
