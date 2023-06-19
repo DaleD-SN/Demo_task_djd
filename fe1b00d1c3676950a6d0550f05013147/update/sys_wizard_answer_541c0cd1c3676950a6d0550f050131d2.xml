@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>task_comment</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>task_comment</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">953a4739e821211076da10591ad28742</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>Dale</sys_created_by>
+        <sys_created_on>2023-06-19 09:50:15</sys_created_on>
+        <sys_id>541c0cd1c3676950a6d0550f050131d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_comment</sys_name>
+        <sys_package display_value="Task_based_template" source="x_snc_task_based_0">fe1b00d1c3676950a6d0550f05013147</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Task_based_template">fe1b00d1c3676950a6d0550f05013147</sys_scope>
+        <sys_update_name>sys_wizard_answer_541c0cd1c3676950a6d0550f050131d2</sys_update_name>
+        <sys_updated_by>Dale</sys_updated_by>
+        <sys_updated_on>2023-06-19 09:50:15</sys_updated_on>
+        <table/>
+        <target_url>x_snc_task_based_0_task_comment.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
